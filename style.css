@@ -727,3 +727,6 @@ footer span a:hover{
 .bubble img:nth-child(6){
     animation-delay: 4s;
 }
+.bubble img:nth-child(7){
+    animation-delay: 2s;
+}
